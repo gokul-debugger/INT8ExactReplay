@@ -11,8 +11,8 @@
     },
     {
       "file": "ARTICLE.md",
-      "bytes": 4775,
-      "sha256": "69a8222a4913885447231ac2535d3844a9ea3f35ddcf4596679cbd8cbb8ae68e"
+      "bytes": 6655,
+      "sha256": "1913aa539fe5538417f51c6fe86d9fe9e842842157b55a1dbd79d314ebae3346"
     },
     {
       "file": "DATA_DICTIONARY.md",
@@ -41,13 +41,13 @@
     },
     {
       "file": "PROVENANCE.json",
-      "bytes": 13880,
-      "sha256": "b020646b1beeea7a900834b44326bce59dc4cecc58b6f2289f1ea0e14af8b69d"
+      "bytes": 14216,
+      "sha256": "0a781af14778b9a10cec7cdedf9b32316a5729b523243fd406137868c46de89b"
     },
     {
       "file": "README.md",
-      "bytes": 3798,
-      "sha256": "f0873fb998d3c0676b7e2d5b26296a94b2b60e14e8979b04e21467fe22c0beae"
+      "bytes": 4027,
+      "sha256": "e02b5792a0a9c31473a0a07c0bbb9bf0db2ee25353e7ef3697ae0c662074f8ec"
     },
     {
       "file": "RIGHTS.md",
@@ -86,8 +86,8 @@
     },
     {
       "file": "figures/CAPTION.md",
-      "bytes": 694,
-      "sha256": "20c80986c34ab2ee0884f0994e138c31df8765f71577fcc72ebec4a1c2db4c25"
+      "bytes": 678,
+      "sha256": "555e9bfaf7253fcb8a1f37a69674a65bfc0068e0dad4276b421dfd6adcf07691"
     },
     {
       "file": "figures/rounding-boundary.png",

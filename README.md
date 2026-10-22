@@ -1,10 +1,11 @@
 # INT8 exact replay: arithmetic and recorded observations
 
-Companion materials for **Why I Check Exact Replay When Debugging INT8 Models**.
+Companion materials for [**Why I Check Exact Replay When Debugging INT8 Models**](https://debuggerpaco.medium.com/why-i-check-exact-replay-when-debugging-int8-models-67e67cffc0e6), published on Medium on October 22, 2026.
 Educational diagnostic; one model conversion and a failure-selected example.
 
 Version 1.0.0: [release and downloadable bundle](https://github.com/gokul-debugger/INT8ExactReplay/releases/tag/v1.0.0).
-The companion article has not yet been posted on Medium.
+The current branch includes publication links and the final article wording. The
+tagged v1.0.0 bundle remains the original numerical release.
 
 The recorded original classifier gives horse code 16 for test image 4054. Its
 float-output replay, followed by output quantization, gives 17. Both predict horse.
@@ -16,7 +17,7 @@ the native fused calculation order remains unresolved.
 
 *Figure 1. Distance from the midpoint for the horse output. The values are exact
 references or candidate calculations, not directly observed fused-kernel
-intermediates. At96.5, nearest-even chooses96; adding zero point−80 gives 16.*
+intermediates. At 96.5, nearest-even chooses 96; adding zero point −80 gives 16.*
 
 ## What you can reproduce
 

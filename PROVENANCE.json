@@ -326,7 +326,7 @@
   },
   "source_files_not_publicly_retrievable_in_this_bundle": true,
   "arithmetic_source_sha256": "a2e31c239a73bd58a65c49614fb19ab05c990b17b8a3eec7de3cb997939de7ba",
-  "article_source_sha256": "69a8222a4913885447231ac2535d3844a9ea3f35ddcf4596679cbd8cbb8ae68e",
+  "article_source_sha256": "7214fd9be082f65d88bdfbb2e20b46f09063e3687a4f94c9a405a9b027a1b486",
   "excluded": [
     "images",
     "normalized_image_tensors",
@@ -348,5 +348,13 @@
   "licenses": {
     "code": "MIT",
     "original_documentation_figures_and_data_arrangement": "CC-BY-4.0"
+  },
+  "article": {
+    "title": "Why I Check Exact Replay When Debugging INT8 Models",
+    "url": "https://debuggerpaco.medium.com/why-i-check-exact-replay-when-debugging-int8-models-67e67cffc0e6",
+    "status": "published",
+    "publication_date": "2026-10-22",
+    "type": "educational technical article",
+    "peer_reviewed": false
   }
 }
