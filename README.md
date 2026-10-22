@@ -7,6 +7,9 @@ Version 1.0.0: [release and downloadable bundle](https://github.com/gokul-debugg
 The current branch includes publication links and the final article wording. The
 tagged v1.0.0 bundle remains the original numerical release.
 
+<img width="1734" height="907" alt="INT8 Model Debugging Log" src="https://github.com/user-attachments/assets/904491f6-bdf3-4d58-a7e7-b8eb3cd31171" />
+
+
 The recorded original classifier gives horse code 16 for test image 4054. Its
 float-output replay, followed by output quantization, gives 17. Both predict horse.
 The same checked integer sum can reproduce either code through the predefined
