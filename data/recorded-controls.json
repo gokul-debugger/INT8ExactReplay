@@ -1,0 +1,65 @@
+{
+  "status": "recorded historical evidence; full classifier not rerun by this bundle",
+  "inputs": 33,
+  "class_outputs_per_input": 10,
+  "original_control_inputs": 32,
+  "saved_tensor_vectors_bitwise": 330,
+  "profiled_unprofiled_identical": true,
+  "CPU_integer_heavy_map": {
+    "QLinearConv": 52,
+    "QGemm": 1,
+    "float_heavy_fallbacks": 0
+  },
+  "head_constant_bytes_unchanged": true,
+  "known_target_mismatch": {
+    "class": "horse",
+    "class_id": 7,
+    "original": 16,
+    "recomposed": 17,
+    "other_codes_match": 9,
+    "both_predictions": "horse"
+  },
+  "integer_probe": {
+    "status": "passed",
+    "rows": 33,
+    "classes": 10,
+    "exact_integer_agreement": true,
+    "operator_calls": {
+      "MatMulInteger": 33,
+      "Add": 33
+    },
+    "fused_accumulator_observed": false
+  },
+  "standalone_quantizer": {
+    "passed": true,
+    "saved_requant_vectors_bitwise": 33,
+    "scale_counterfactual_vectors": 66,
+    "boundary_vectors": 27,
+    "native_calls": 126,
+    "operator_calls": {
+      "QuantizeLinear": 126,
+      "DequantizeLinear": 126
+    }
+  },
+  "independent_verification": {
+    "passed": true,
+    "integer_and_rational_class_values": 330,
+    "matrix_rows": 4620
+  },
+  "original_synthetic_tests_passed": 14,
+  "original_CPU_conditions": {
+    "hardware": "Apple M1 Pro",
+    "ram_GB": 16,
+    "python": "3.12.13",
+    "numpy": "2.5.4",
+    "onnx": "1.23.2",
+    "onnxruntime": "1.31.0",
+    "provider": "CPUExecutionProvider",
+    "batch": 1,
+    "intra_op_threads": 1,
+    "inter_op_threads": 1,
+    "execution": "ORT_SEQUENTIAL",
+    "optimization": "ORT_ENABLE_ALL",
+    "telemetry_events": false
+  }
+}

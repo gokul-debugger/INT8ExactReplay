@@ -1,0 +1,129 @@
+{
+  "scope": {
+    "inputs": 33,
+    "class_values": 330,
+    "target_index": 4054,
+    "failure_selected": true
+  },
+  "path_summary": {
+    "p_exact": {
+      "class_values": 330,
+      "original_code_matches": 329,
+      "recomposed_code_matches": 330,
+      "full_original_vectors": 32,
+      "full_recomposed_vectors": 33
+    },
+    "p_R1": {
+      "class_values": 330,
+      "original_code_matches": 329,
+      "recomposed_code_matches": 330,
+      "full_original_vectors": 32,
+      "full_recomposed_vectors": 33
+    },
+    "p_R2": {
+      "class_values": 330,
+      "original_code_matches": 329,
+      "recomposed_code_matches": 330,
+      "full_original_vectors": 32,
+      "full_recomposed_vectors": 33
+    },
+    "r_exact": {
+      "class_values": 330,
+      "original_code_matches": 329,
+      "recomposed_code_matches": 330,
+      "full_original_vectors": 32,
+      "full_recomposed_vectors": 33
+    },
+    "S1_exact": {
+      "class_values": 330,
+      "original_code_matches": 329,
+      "recomposed_code_matches": 330,
+      "full_original_vectors": 32,
+      "full_recomposed_vectors": 33
+    },
+    "S1_R1": {
+      "class_values": 330,
+      "original_code_matches": 329,
+      "recomposed_code_matches": 330,
+      "full_original_vectors": 32,
+      "full_recomposed_vectors": 33
+    },
+    "S1_R2": {
+      "class_values": 330,
+      "original_code_matches": 329,
+      "recomposed_code_matches": 330,
+      "full_original_vectors": 32,
+      "full_recomposed_vectors": 33
+    },
+    "S1_native": {
+      "class_values": 330,
+      "original_code_matches": 329,
+      "recomposed_code_matches": 330,
+      "full_original_vectors": 32,
+      "full_recomposed_vectors": 33
+    },
+    "S2_exact": {
+      "class_values": 330,
+      "original_code_matches": 330,
+      "recomposed_code_matches": 329,
+      "full_original_vectors": 33,
+      "full_recomposed_vectors": 32
+    },
+    "S2_R1": {
+      "class_values": 330,
+      "original_code_matches": 330,
+      "recomposed_code_matches": 329,
+      "full_original_vectors": 33,
+      "full_recomposed_vectors": 32
+    },
+    "S2_R2": {
+      "class_values": 330,
+      "original_code_matches": 330,
+      "recomposed_code_matches": 329,
+      "full_original_vectors": 33,
+      "full_recomposed_vectors": 32
+    },
+    "S2_native": {
+      "class_values": 330,
+      "original_code_matches": 330,
+      "recomposed_code_matches": 329,
+      "full_original_vectors": 33,
+      "full_recomposed_vectors": 32
+    },
+    "S3": {
+      "class_values": 330,
+      "original_code_matches": 330,
+      "recomposed_code_matches": 329,
+      "full_original_vectors": 33,
+      "full_recomposed_vectors": 32
+    },
+    "S4": {
+      "class_values": 330,
+      "original_code_matches": 330,
+      "recomposed_code_matches": 329,
+      "full_original_vectors": 33,
+      "full_recomposed_vectors": 32
+    }
+  },
+  "scale_score_bit_matches_out_of_330": {
+    "S1": 330,
+    "S2": 192
+  },
+  "boundary_summary": {
+    "exact": {
+      "vectors": 27,
+      "native_code_matches": 25
+    },
+    "R1": {
+      "vectors": 27,
+      "native_code_matches": 27
+    },
+    "R2": {
+      "vectors": 27,
+      "native_code_matches": 24
+    }
+  },
+  "native_values_are_recorded_observations": true,
+  "integer_dot_products_not_recomputed_from_features": true,
+  "full_model_not_executed": true
+}

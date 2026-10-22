@@ -1,0 +1,3 @@
+Figure 1. Four reference/candidate calculations for the horse output of test image 4054. The horizontal axis shows distance from the midpoint in millionths of a code unit; zero means 96.5 before integer rounding and zero-point addition. Exact ties choose 96, then adding −80 gives code 16. The points are reference/candidate values, not hidden native intermediates. Both recorded native predictions remain horse.
+
+Alt text: Four horizontal rows show S2 slightly below the rounding midpoint, S3 and S4 exactly on it, the exact reference slightly above it, and the observed float-output score after exact division further above it. The first two rows yield code 16; the last two yield code 17.

@@ -1,0 +1,4621 @@
+{
+  "records": [
+    {
+      "lower_code": -129,
+      "boundary": {
+        "n": -294477741,
+        "d": 67108864,
+        "decimal": -4.388060286641121
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": -4.388060569763184,
+        "bits_hex": "c08c6afe",
+        "hex": "-0x1.18d5fc0000000p+2",
+        "exact": {
+          "n": -4601215,
+          "d": 1048576,
+          "decimal": -4.388060569763184
+        }
+      },
+      "signed_distance_score": {
+        "n": -19,
+        "d": 67108864,
+        "decimal": -2.8312206268310547e-07
+      },
+      "side": "below",
+      "native_codes": [
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128
+      ],
+      "native_DQ": [
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": -147238880,
+            "d": 3035853,
+            "decimal": -48.50000312926878
+          },
+          "after_zero_exact": {
+            "n": -390107120,
+            "d": 3035853,
+            "decimal": -128.50000312926878
+          },
+          "rounded_before_zero": -49,
+          "unclipped_after_zero": -129,
+          "code": -128,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -19,
+            "d": 6071706,
+            "decimal": -3.1292687755303042e-06
+          },
+          "threshold_lower_code": -129,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": -12713985,
+            "d": 262144,
+            "decimal": -48.500003814697266
+          },
+          "after_zero_exact": {
+            "n": -33685505,
+            "d": 262144,
+            "decimal": -128.50000381469727
+          },
+          "rounded_before_zero": -49,
+          "unclipped_after_zero": -129,
+          "code": -128,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 262144,
+            "decimal": -3.814697265625e-06
+          },
+          "threshold_lower_code": -129,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": -48.500003814697266,
+            "bits_hex": "c2420001",
+            "hex": "-0x1.8400020000000p+5",
+            "exact": {
+              "n": -12713985,
+              "d": 262144,
+              "decimal": -48.500003814697266
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": -12713985,
+            "d": 262144,
+            "decimal": -48.500003814697266
+          },
+          "after_zero_exact": {
+            "n": -33685505,
+            "d": 262144,
+            "decimal": -128.50000381469727
+          },
+          "rounded_before_zero": -49,
+          "unclipped_after_zero": -129,
+          "code": -128,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 262144,
+            "decimal": -3.814697265625e-06
+          },
+          "threshold_lower_code": -129,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": -48.500003814697266,
+            "bits_hex": "c2420001",
+            "hex": "-0x1.8400020000000p+5",
+            "exact": {
+              "n": -12713985,
+              "d": 262144,
+              "decimal": -48.500003814697266
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": -129,
+      "boundary": {
+        "n": -294477741,
+        "d": 67108864,
+        "decimal": -4.388060286641121
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": -4.388060092926025,
+        "bits_hex": "c08c6afd",
+        "hex": "-0x1.18d5fa0000000p+2",
+        "exact": {
+          "n": -9202429,
+          "d": 2097152,
+          "decimal": -4.388060092926025
+        }
+      },
+      "signed_distance_score": {
+        "n": 13,
+        "d": 67108864,
+        "decimal": 1.9371509552001953e-07
+      },
+      "side": "above",
+      "native_codes": [
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128
+      ],
+      "native_DQ": [
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": -147238864,
+            "d": 3035853,
+            "decimal": -48.49999785892136
+          },
+          "after_zero_exact": {
+            "n": -390107104,
+            "d": 3035853,
+            "decimal": -128.49999785892138
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 13,
+            "d": 6071706,
+            "decimal": 2.1410786358891553e-06
+          },
+          "threshold_lower_code": -129,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": -12713983,
+            "d": 262144,
+            "decimal": -48.499996185302734
+          },
+          "after_zero_exact": {
+            "n": -33685503,
+            "d": 262144,
+            "decimal": -128.49999618530273
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 262144,
+            "decimal": 3.814697265625e-06
+          },
+          "threshold_lower_code": -129,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": -48.499996185302734,
+            "bits_hex": "c241ffff",
+            "hex": "-0x1.83fffe0000000p+5",
+            "exact": {
+              "n": -12713983,
+              "d": 262144,
+              "decimal": -48.499996185302734
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "after_zero_exact": {
+            "n": -257,
+            "d": 2,
+            "decimal": -128.5
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": -129,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": -48.5,
+            "bits_hex": "c2420000",
+            "hex": "-0x1.8400000000000p+5",
+            "exact": {
+              "n": -97,
+              "d": 2,
+              "decimal": -48.5
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": -129,
+      "boundary": {
+        "n": -294477741,
+        "d": 67108864,
+        "decimal": -4.388060286641121
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": -4.388059616088867,
+        "bits_hex": "c08c6afc",
+        "hex": "-0x1.18d5f80000000p+2",
+        "exact": {
+          "n": -2300607,
+          "d": 524288,
+          "decimal": -4.388059616088867
+        }
+      },
+      "signed_distance_score": {
+        "n": 45,
+        "d": 67108864,
+        "decimal": 6.705522537231445e-07
+      },
+      "side": "above",
+      "native_codes": [
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128
+      ],
+      "native_DQ": [
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": -16359872,
+            "d": 337317,
+            "decimal": -48.49999258857395
+          },
+          "after_zero_exact": {
+            "n": -43345232,
+            "d": 337317,
+            "decimal": -128.49999258857395
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 5,
+            "d": 674634,
+            "decimal": 7.411426047308615e-06
+          },
+          "threshold_lower_code": -129,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": -6356991,
+            "d": 131072,
+            "decimal": -48.49999237060547
+          },
+          "after_zero_exact": {
+            "n": -16842751,
+            "d": 131072,
+            "decimal": -128.49999237060547
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 131072,
+            "decimal": 7.62939453125e-06
+          },
+          "threshold_lower_code": -129,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": -48.49999237060547,
+            "bits_hex": "c241fffe",
+            "hex": "-0x1.83fffc0000000p+5",
+            "exact": {
+              "n": -6356991,
+              "d": 131072,
+              "decimal": -48.49999237060547
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": -12713983,
+            "d": 262144,
+            "decimal": -48.499996185302734
+          },
+          "after_zero_exact": {
+            "n": -33685503,
+            "d": 262144,
+            "decimal": -128.49999618530273
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -97,
+            "d": 2,
+            "decimal": -48.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 262144,
+            "decimal": 3.814697265625e-06
+          },
+          "threshold_lower_code": -129,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": -48.499996185302734,
+            "bits_hex": "c241ffff",
+            "hex": "-0x1.83fffe0000000p+5",
+            "exact": {
+              "n": -12713983,
+              "d": 262144,
+              "decimal": -48.499996185302734
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": -128,
+      "boundary": {
+        "n": -288406035,
+        "d": 67108864,
+        "decimal": -4.297584816813469
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": -4.297585487365723,
+        "bits_hex": "c08985d2",
+        "hex": "-0x1.130ba40000000p+2",
+        "exact": {
+          "n": -4506345,
+          "d": 1048576,
+          "decimal": -4.297585487365723
+        }
+      },
+      "signed_distance_score": {
+        "n": -45,
+        "d": 67108864,
+        "decimal": -6.705522537231445e-07
+      },
+      "side": "below",
+      "native_codes": [
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128
+      ],
+      "native_DQ": [
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": -16022560,
+            "d": 337317,
+            "decimal": -47.50000741142605
+          },
+          "after_zero_exact": {
+            "n": -43007920,
+            "d": 337317,
+            "decimal": -127.50000741142605
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -5,
+            "d": 674634,
+            "decimal": -7.411426047308615e-06
+          },
+          "threshold_lower_code": -128,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": -6225921,
+            "d": 131072,
+            "decimal": -47.50000762939453
+          },
+          "after_zero_exact": {
+            "n": -16711681,
+            "d": 131072,
+            "decimal": -127.50000762939453
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 131072,
+            "decimal": -7.62939453125e-06
+          },
+          "threshold_lower_code": -128,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": -47.50000762939453,
+            "bits_hex": "c23e0002",
+            "hex": "-0x1.7c00040000000p+5",
+            "exact": {
+              "n": -6225921,
+              "d": 131072,
+              "decimal": -47.50000762939453
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": -6225921,
+            "d": 131072,
+            "decimal": -47.50000762939453
+          },
+          "after_zero_exact": {
+            "n": -16711681,
+            "d": 131072,
+            "decimal": -127.50000762939453
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 131072,
+            "decimal": -7.62939453125e-06
+          },
+          "threshold_lower_code": -128,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": -47.50000762939453,
+            "bits_hex": "c23e0002",
+            "hex": "-0x1.7c00040000000p+5",
+            "exact": {
+              "n": -6225921,
+              "d": 131072,
+              "decimal": -47.50000762939453
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": -128,
+      "boundary": {
+        "n": -288406035,
+        "d": 67108864,
+        "decimal": -4.297584816813469
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": -4.2975850105285645,
+        "bits_hex": "c08985d1",
+        "hex": "-0x1.130ba20000000p+2",
+        "exact": {
+          "n": -9012689,
+          "d": 2097152,
+          "decimal": -4.2975850105285645
+        }
+      },
+      "signed_distance_score": {
+        "n": -13,
+        "d": 67108864,
+        "decimal": -1.9371509552001953e-07
+      },
+      "side": "below",
+      "native_codes": [
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128,
+        -128
+      ],
+      "native_DQ": [
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295,
+        -4.342822551727295
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": -144203024,
+            "d": 3035853,
+            "decimal": -47.50000214107864
+          },
+          "after_zero_exact": {
+            "n": -387071264,
+            "d": 3035853,
+            "decimal": -127.50000214107864
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -13,
+            "d": 6071706,
+            "decimal": -2.1410786358891553e-06
+          },
+          "threshold_lower_code": -128,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": -12451841,
+            "d": 262144,
+            "decimal": -47.500003814697266
+          },
+          "after_zero_exact": {
+            "n": -33423361,
+            "d": 262144,
+            "decimal": -127.50000381469727
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 262144,
+            "decimal": -3.814697265625e-06
+          },
+          "threshold_lower_code": -128,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": -47.500003814697266,
+            "bits_hex": "c23e0001",
+            "hex": "-0x1.7c00020000000p+5",
+            "exact": {
+              "n": -12451841,
+              "d": 262144,
+              "decimal": -47.500003814697266
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": -12451841,
+            "d": 262144,
+            "decimal": -47.500003814697266
+          },
+          "after_zero_exact": {
+            "n": -33423361,
+            "d": 262144,
+            "decimal": -127.50000381469727
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 262144,
+            "decimal": -3.814697265625e-06
+          },
+          "threshold_lower_code": -128,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": -47.500003814697266,
+            "bits_hex": "c23e0001",
+            "hex": "-0x1.7c00020000000p+5",
+            "exact": {
+              "n": -12451841,
+              "d": 262144,
+              "decimal": -47.500003814697266
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": -128,
+      "boundary": {
+        "n": -288406035,
+        "d": 67108864,
+        "decimal": -4.297584816813469
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": -4.297584533691406,
+        "bits_hex": "c08985d0",
+        "hex": "-0x1.130ba00000000p+2",
+        "exact": {
+          "n": -563293,
+          "d": 131072,
+          "decimal": -4.297584533691406
+        }
+      },
+      "signed_distance_score": {
+        "n": 19,
+        "d": 67108864,
+        "decimal": 2.8312206268310547e-07
+      },
+      "side": "above",
+      "native_codes": [
+        -127,
+        -127,
+        -127,
+        -127,
+        -127,
+        -127,
+        -127,
+        -127,
+        -127,
+        -127
+      ],
+      "native_DQ": [
+        -4.252346992492676,
+        -4.252346992492676,
+        -4.252346992492676,
+        -4.252346992492676,
+        -4.252346992492676,
+        -4.252346992492676,
+        -4.252346992492676,
+        -4.252346992492676,
+        -4.252346992492676,
+        -4.252346992492676
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": -144203008,
+            "d": 3035853,
+            "decimal": -47.49999687073122
+          },
+          "after_zero_exact": {
+            "n": -387071248,
+            "d": 3035853,
+            "decimal": -127.49999687073122
+          },
+          "rounded_before_zero": -47,
+          "unclipped_after_zero": -127,
+          "code": -127,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 19,
+            "d": 6071706,
+            "decimal": 3.1292687755303042e-06
+          },
+          "threshold_lower_code": -128,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": -12451839,
+            "d": 262144,
+            "decimal": -47.499996185302734
+          },
+          "after_zero_exact": {
+            "n": -33423359,
+            "d": 262144,
+            "decimal": -127.49999618530273
+          },
+          "rounded_before_zero": -47,
+          "unclipped_after_zero": -127,
+          "code": -127,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 262144,
+            "decimal": 3.814697265625e-06
+          },
+          "threshold_lower_code": -128,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false,
+          "division_float32": {
+            "value": -47.499996185302734,
+            "bits_hex": "c23dffff",
+            "hex": "-0x1.7bfffe0000000p+5",
+            "exact": {
+              "n": -12451839,
+              "d": 262144,
+              "decimal": -47.499996185302734
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "after_zero_exact": {
+            "n": -255,
+            "d": 2,
+            "decimal": -127.5
+          },
+          "rounded_before_zero": -48,
+          "unclipped_after_zero": -128,
+          "code": -128,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": -95,
+            "d": 2,
+            "decimal": -47.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": -128,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": -47.5,
+            "bits_hex": "c23e0000",
+            "hex": "-0x1.7c00000000000p+5",
+            "exact": {
+              "n": -95,
+              "d": 2,
+              "decimal": -47.5
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": -1,
+      "boundary": {
+        "n": 482700627,
+        "d": 67108864,
+        "decimal": 7.192799851298332
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 7.1927995681762695,
+        "bits_hex": "40e62b6a",
+        "hex": "0x1.cc56d40000000p+2",
+        "exact": {
+          "n": 7542197,
+          "d": 1048576,
+          "decimal": 7.1927995681762695
+        }
+      },
+      "signed_distance_score": {
+        "n": -19,
+        "d": 67108864,
+        "decimal": -2.8312206268310547e-07
+      },
+      "side": "below",
+      "native_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "native_DQ": [
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 241350304,
+            "d": 3035853,
+            "decimal": 79.49999687073122
+          },
+          "after_zero_exact": {
+            "n": -1517936,
+            "d": 3035853,
+            "decimal": -0.5000031292687755
+          },
+          "rounded_before_zero": 79,
+          "unclipped_after_zero": -1,
+          "code": -1,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -19,
+            "d": 6071706,
+            "decimal": -3.1292687755303042e-06
+          },
+          "threshold_lower_code": -1,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "after_zero_exact": {
+            "n": -1,
+            "d": 2,
+            "decimal": -0.5
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": -1,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 79.5,
+            "bits_hex": "429f0000",
+            "hex": "0x1.3e00000000000p+6",
+            "exact": {
+              "n": 159,
+              "d": 2,
+              "decimal": 79.5
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "after_zero_exact": {
+            "n": -1,
+            "d": 2,
+            "decimal": -0.5
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": -1,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 79.5,
+            "bits_hex": "429f0000",
+            "hex": "0x1.3e00000000000p+6",
+            "exact": {
+              "n": 159,
+              "d": 2,
+              "decimal": 79.5
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": -1,
+      "boundary": {
+        "n": 482700627,
+        "d": 67108864,
+        "decimal": 7.192799851298332
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 7.192800045013428,
+        "bits_hex": "40e62b6b",
+        "hex": "0x1.cc56d60000000p+2",
+        "exact": {
+          "n": 15084395,
+          "d": 2097152,
+          "decimal": 7.192800045013428
+        }
+      },
+      "signed_distance_score": {
+        "n": 13,
+        "d": 67108864,
+        "decimal": 1.9371509552001953e-07
+      },
+      "side": "above",
+      "native_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "native_DQ": [
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 241350320,
+            "d": 3035853,
+            "decimal": 79.50000214107864
+          },
+          "after_zero_exact": {
+            "n": -1517920,
+            "d": 3035853,
+            "decimal": -0.4999978589213641
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 13,
+            "d": 6071706,
+            "decimal": 2.1410786358891553e-06
+          },
+          "threshold_lower_code": -1,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "after_zero_exact": {
+            "n": -1,
+            "d": 2,
+            "decimal": -0.5
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": -1,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 79.5,
+            "bits_hex": "429f0000",
+            "hex": "0x1.3e00000000000p+6",
+            "exact": {
+              "n": 159,
+              "d": 2,
+              "decimal": 79.5
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 10420225,
+            "d": 131072,
+            "decimal": 79.50000762939453
+          },
+          "after_zero_exact": {
+            "n": -65535,
+            "d": 131072,
+            "decimal": -0.49999237060546875
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 131072,
+            "decimal": 7.62939453125e-06
+          },
+          "threshold_lower_code": -1,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 79.50000762939453,
+            "bits_hex": "429f0001",
+            "hex": "0x1.3e00020000000p+6",
+            "exact": {
+              "n": 10420225,
+              "d": 131072,
+              "decimal": 79.50000762939453
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": -1,
+      "boundary": {
+        "n": 482700627,
+        "d": 67108864,
+        "decimal": 7.192799851298332
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 7.192800521850586,
+        "bits_hex": "40e62b6c",
+        "hex": "0x1.cc56d80000000p+2",
+        "exact": {
+          "n": 3771099,
+          "d": 524288,
+          "decimal": 7.192800521850586
+        }
+      },
+      "signed_distance_score": {
+        "n": 45,
+        "d": 67108864,
+        "decimal": 6.705522537231445e-07
+      },
+      "side": "above",
+      "native_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "native_DQ": [
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 26816704,
+            "d": 337317,
+            "decimal": 79.50000741142605
+          },
+          "after_zero_exact": {
+            "n": -168656,
+            "d": 337317,
+            "decimal": -0.4999925885739527
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 5,
+            "d": 674634,
+            "decimal": 7.411426047308615e-06
+          },
+          "threshold_lower_code": -1,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 10420225,
+            "d": 131072,
+            "decimal": 79.50000762939453
+          },
+          "after_zero_exact": {
+            "n": -65535,
+            "d": 131072,
+            "decimal": -0.49999237060546875
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 131072,
+            "decimal": 7.62939453125e-06
+          },
+          "threshold_lower_code": -1,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 79.50000762939453,
+            "bits_hex": "429f0001",
+            "hex": "0x1.3e00020000000p+6",
+            "exact": {
+              "n": 10420225,
+              "d": 131072,
+              "decimal": 79.50000762939453
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 10420225,
+            "d": 131072,
+            "decimal": 79.50000762939453
+          },
+          "after_zero_exact": {
+            "n": -65535,
+            "d": 131072,
+            "decimal": -0.49999237060546875
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 159,
+            "d": 2,
+            "decimal": 79.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 131072,
+            "decimal": 7.62939453125e-06
+          },
+          "threshold_lower_code": -1,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 79.50000762939453,
+            "bits_hex": "429f0001",
+            "hex": "0x1.3e00020000000p+6",
+            "exact": {
+              "n": 10420225,
+              "d": 131072,
+              "decimal": 79.50000762939453
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 0,
+      "boundary": {
+        "n": 488772333,
+        "d": 67108864,
+        "decimal": 7.283275321125984
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 7.2832746505737305,
+        "bits_hex": "40e91096",
+        "hex": "0x1.d2212c0000000p+2",
+        "exact": {
+          "n": 7637067,
+          "d": 1048576,
+          "decimal": 7.2832746505737305
+        }
+      },
+      "signed_distance_score": {
+        "n": -45,
+        "d": 67108864,
+        "decimal": -6.705522537231445e-07
+      },
+      "side": "below",
+      "native_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "native_DQ": [
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 27154016,
+            "d": 337317,
+            "decimal": 80.49999258857395
+          },
+          "after_zero_exact": {
+            "n": 168656,
+            "d": 337317,
+            "decimal": 0.4999925885739527
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -5,
+            "d": 674634,
+            "decimal": -7.411426047308615e-06
+          },
+          "threshold_lower_code": 0,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 10551295,
+            "d": 131072,
+            "decimal": 80.49999237060547
+          },
+          "after_zero_exact": {
+            "n": 65535,
+            "d": 131072,
+            "decimal": 0.49999237060546875
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 131072,
+            "decimal": -7.62939453125e-06
+          },
+          "threshold_lower_code": 0,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 80.49999237060547,
+            "bits_hex": "42a0ffff",
+            "hex": "0x1.41fffe0000000p+6",
+            "exact": {
+              "n": 10551295,
+              "d": 131072,
+              "decimal": 80.49999237060547
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 10551295,
+            "d": 131072,
+            "decimal": 80.49999237060547
+          },
+          "after_zero_exact": {
+            "n": 65535,
+            "d": 131072,
+            "decimal": 0.49999237060546875
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 131072,
+            "decimal": -7.62939453125e-06
+          },
+          "threshold_lower_code": 0,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 80.49999237060547,
+            "bits_hex": "42a0ffff",
+            "hex": "0x1.41fffe0000000p+6",
+            "exact": {
+              "n": 10551295,
+              "d": 131072,
+              "decimal": 80.49999237060547
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 0,
+      "boundary": {
+        "n": 488772333,
+        "d": 67108864,
+        "decimal": 7.283275321125984
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 7.283275127410889,
+        "bits_hex": "40e91097",
+        "hex": "0x1.d2212e0000000p+2",
+        "exact": {
+          "n": 15274135,
+          "d": 2097152,
+          "decimal": 7.283275127410889
+        }
+      },
+      "signed_distance_score": {
+        "n": -13,
+        "d": 67108864,
+        "decimal": -1.9371509552001953e-07
+      },
+      "side": "below",
+      "native_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "native_DQ": [
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 244386160,
+            "d": 3035853,
+            "decimal": 80.49999785892136
+          },
+          "after_zero_exact": {
+            "n": 1517920,
+            "d": 3035853,
+            "decimal": 0.4999978589213641
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -13,
+            "d": 6071706,
+            "decimal": -2.1410786358891553e-06
+          },
+          "threshold_lower_code": 0,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "after_zero_exact": {
+            "n": 1,
+            "d": 2,
+            "decimal": 0.5
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 0,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 80.5,
+            "bits_hex": "42a10000",
+            "hex": "0x1.4200000000000p+6",
+            "exact": {
+              "n": 161,
+              "d": 2,
+              "decimal": 80.5
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "after_zero_exact": {
+            "n": 1,
+            "d": 2,
+            "decimal": 0.5
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 0,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 80.5,
+            "bits_hex": "42a10000",
+            "hex": "0x1.4200000000000p+6",
+            "exact": {
+              "n": 161,
+              "d": 2,
+              "decimal": 80.5
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 0,
+      "boundary": {
+        "n": 488772333,
+        "d": 67108864,
+        "decimal": 7.283275321125984
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 7.283275604248047,
+        "bits_hex": "40e91098",
+        "hex": "0x1.d221300000000p+2",
+        "exact": {
+          "n": 1909267,
+          "d": 262144,
+          "decimal": 7.283275604248047
+        }
+      },
+      "signed_distance_score": {
+        "n": 19,
+        "d": 67108864,
+        "decimal": 2.8312206268310547e-07
+      },
+      "side": "above",
+      "native_codes": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "native_DQ": [
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158,
+        7.238037586212158
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 244386176,
+            "d": 3035853,
+            "decimal": 80.50000312926878
+          },
+          "after_zero_exact": {
+            "n": 1517936,
+            "d": 3035853,
+            "decimal": 0.5000031292687755
+          },
+          "rounded_before_zero": 81,
+          "unclipped_after_zero": 1,
+          "code": 1,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 19,
+            "d": 6071706,
+            "decimal": 3.1292687755303042e-06
+          },
+          "threshold_lower_code": 0,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "after_zero_exact": {
+            "n": 1,
+            "d": 2,
+            "decimal": 0.5
+          },
+          "rounded_before_zero": 80,
+          "unclipped_after_zero": 0,
+          "code": 0,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 0,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 80.5,
+            "bits_hex": "42a10000",
+            "hex": "0x1.4200000000000p+6",
+            "exact": {
+              "n": 161,
+              "d": 2,
+              "decimal": 80.5
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 10551297,
+            "d": 131072,
+            "decimal": 80.50000762939453
+          },
+          "after_zero_exact": {
+            "n": 65537,
+            "d": 131072,
+            "decimal": 0.5000076293945312
+          },
+          "rounded_before_zero": 81,
+          "unclipped_after_zero": 1,
+          "code": 1,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 161,
+            "d": 2,
+            "decimal": 80.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 131072,
+            "decimal": 7.62939453125e-06
+          },
+          "threshold_lower_code": 0,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 80.50000762939453,
+            "bits_hex": "42a10001",
+            "hex": "0x1.4200020000000p+6",
+            "exact": {
+              "n": 10551297,
+              "d": 131072,
+              "decimal": 80.50000762939453
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 15,
+      "boundary": {
+        "n": 579847923,
+        "d": 67108864,
+        "decimal": 8.640407368540764
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 8.640406608581543,
+        "bits_hex": "410a3f1b",
+        "hex": "0x1.147e360000000p+3",
+        "exact": {
+          "n": 9060123,
+          "d": 1048576,
+          "decimal": 8.640406608581543
+        }
+      },
+      "signed_distance_score": {
+        "n": -51,
+        "d": 67108864,
+        "decimal": -7.599592208862305e-07
+      },
+      "side": "below",
+      "native_codes": [
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15,
+        15
+      ],
+      "native_DQ": [
+        8.595170021057129,
+        8.595170021057129,
+        8.595170021057129,
+        8.595170021057129,
+        8.595170021057129,
+        8.595170021057129,
+        8.595170021057129,
+        8.595170021057129,
+        8.595170021057129,
+        8.595170021057129
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 96641312,
+            "d": 1011951,
+            "decimal": 95.49999160038381
+          },
+          "after_zero_exact": {
+            "n": 15685232,
+            "d": 1011951,
+            "decimal": 15.499991600383813
+          },
+          "rounded_before_zero": 95,
+          "unclipped_after_zero": 15,
+          "code": 15,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -17,
+            "d": 2023902,
+            "decimal": -8.399616186949764e-06
+          },
+          "threshold_lower_code": 15,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": 12517375,
+            "d": 131072,
+            "decimal": 95.49999237060547
+          },
+          "after_zero_exact": {
+            "n": 2031615,
+            "d": 131072,
+            "decimal": 15.499992370605469
+          },
+          "rounded_before_zero": 95,
+          "unclipped_after_zero": 15,
+          "code": 15,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 131072,
+            "decimal": -7.62939453125e-06
+          },
+          "threshold_lower_code": 15,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false,
+          "division_float32": {
+            "value": 95.49999237060547,
+            "bits_hex": "42beffff",
+            "hex": "0x1.7dfffe0000000p+6",
+            "exact": {
+              "n": 12517375,
+              "d": 131072,
+              "decimal": 95.49999237060547
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 12517375,
+            "d": 131072,
+            "decimal": 95.49999237060547
+          },
+          "after_zero_exact": {
+            "n": 2031615,
+            "d": 131072,
+            "decimal": 15.499992370605469
+          },
+          "rounded_before_zero": 95,
+          "unclipped_after_zero": 15,
+          "code": 15,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 131072,
+            "decimal": -7.62939453125e-06
+          },
+          "threshold_lower_code": 15,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 95.49999237060547,
+            "bits_hex": "42beffff",
+            "hex": "0x1.7dfffe0000000p+6",
+            "exact": {
+              "n": 12517375,
+              "d": 131072,
+              "decimal": 95.49999237060547
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 15,
+      "boundary": {
+        "n": 579847923,
+        "d": 67108864,
+        "decimal": 8.640407368540764
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 8.64040756225586,
+        "bits_hex": "410a3f1c",
+        "hex": "0x1.147e380000000p+3",
+        "exact": {
+          "n": 2265031,
+          "d": 262144,
+          "decimal": 8.64040756225586
+        }
+      },
+      "signed_distance_score": {
+        "n": 13,
+        "d": 67108864,
+        "decimal": 1.9371509552001953e-07
+      },
+      "side": "above",
+      "native_codes": [
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16
+      ],
+      "native_DQ": [
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 289923968,
+            "d": 3035853,
+            "decimal": 95.50000214107864
+          },
+          "after_zero_exact": {
+            "n": 47055728,
+            "d": 3035853,
+            "decimal": 15.500002141078635
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 13,
+            "d": 6071706,
+            "decimal": 2.1410786358891553e-06
+          },
+          "threshold_lower_code": 15,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "after_zero_exact": {
+            "n": 31,
+            "d": 2,
+            "decimal": 15.5
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 15,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 95.5,
+            "bits_hex": "42bf0000",
+            "hex": "0x1.7e00000000000p+6",
+            "exact": {
+              "n": 191,
+              "d": 2,
+              "decimal": 95.5
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 12517377,
+            "d": 131072,
+            "decimal": 95.50000762939453
+          },
+          "after_zero_exact": {
+            "n": 2031617,
+            "d": 131072,
+            "decimal": 15.500007629394531
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 131072,
+            "decimal": 7.62939453125e-06
+          },
+          "threshold_lower_code": 15,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 95.50000762939453,
+            "bits_hex": "42bf0001",
+            "hex": "0x1.7e00020000000p+6",
+            "exact": {
+              "n": 12517377,
+              "d": 131072,
+              "decimal": 95.50000762939453
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 15,
+      "boundary": {
+        "n": 579847923,
+        "d": 67108864,
+        "decimal": 8.640407368540764
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 8.640408515930176,
+        "bits_hex": "410a3f1d",
+        "hex": "0x1.147e3a0000000p+3",
+        "exact": {
+          "n": 9060125,
+          "d": 1048576,
+          "decimal": 8.640408515930176
+        }
+      },
+      "signed_distance_score": {
+        "n": 77,
+        "d": 67108864,
+        "decimal": 1.1473894119262695e-06
+      },
+      "side": "above",
+      "native_codes": [
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16
+      ],
+      "native_DQ": [
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 289924000,
+            "d": 3035853,
+            "decimal": 95.50001268177346
+          },
+          "after_zero_exact": {
+            "n": 47055760,
+            "d": 3035853,
+            "decimal": 15.500012681773459
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 77,
+            "d": 6071706,
+            "decimal": 1.2681773458728074e-05
+          },
+          "threshold_lower_code": 15,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 6258689,
+            "d": 65536,
+            "decimal": 95.50001525878906
+          },
+          "after_zero_exact": {
+            "n": 1015809,
+            "d": 65536,
+            "decimal": 15.500015258789062
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 65536,
+            "decimal": 1.52587890625e-05
+          },
+          "threshold_lower_code": 15,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 95.50001525878906,
+            "bits_hex": "42bf0002",
+            "hex": "0x1.7e00040000000p+6",
+            "exact": {
+              "n": 6258689,
+              "d": 65536,
+              "decimal": 95.50001525878906
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 6258689,
+            "d": 65536,
+            "decimal": 95.50001525878906
+          },
+          "after_zero_exact": {
+            "n": 1015809,
+            "d": 65536,
+            "decimal": 15.500015258789062
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 191,
+            "d": 2,
+            "decimal": 95.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 65536,
+            "decimal": 1.52587890625e-05
+          },
+          "threshold_lower_code": 15,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 95.50001525878906,
+            "bits_hex": "42bf0002",
+            "hex": "0x1.7e00040000000p+6",
+            "exact": {
+              "n": 6258689,
+              "d": 65536,
+              "decimal": 95.50001525878906
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 16,
+      "boundary": {
+        "n": 585919629,
+        "d": 67108864,
+        "decimal": 8.730882838368416
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 8.730881690979004,
+        "bits_hex": "410bb1b1",
+        "hex": "0x1.1763620000000p+3",
+        "exact": {
+          "n": 9154993,
+          "d": 1048576,
+          "decimal": 8.730881690979004
+        }
+      },
+      "signed_distance_score": {
+        "n": -77,
+        "d": 67108864,
+        "decimal": -1.1473894119262695e-06
+      },
+      "side": "below",
+      "native_codes": [
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16
+      ],
+      "native_DQ": [
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 292959776,
+            "d": 3035853,
+            "decimal": 96.49998731822654
+          },
+          "after_zero_exact": {
+            "n": 50091536,
+            "d": 3035853,
+            "decimal": 16.49998731822654
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -77,
+            "d": 6071706,
+            "decimal": -1.2681773458728074e-05
+          },
+          "threshold_lower_code": 16,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 6324223,
+            "d": 65536,
+            "decimal": 96.49998474121094
+          },
+          "after_zero_exact": {
+            "n": 1081343,
+            "d": 65536,
+            "decimal": 16.499984741210938
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 65536,
+            "decimal": -1.52587890625e-05
+          },
+          "threshold_lower_code": 16,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 96.49998474121094,
+            "bits_hex": "42c0fffe",
+            "hex": "0x1.81fffc0000000p+6",
+            "exact": {
+              "n": 6324223,
+              "d": 65536,
+              "decimal": 96.49998474121094
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 12648447,
+            "d": 131072,
+            "decimal": 96.49999237060547
+          },
+          "after_zero_exact": {
+            "n": 2162687,
+            "d": 131072,
+            "decimal": 16.49999237060547
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 131072,
+            "decimal": -7.62939453125e-06
+          },
+          "threshold_lower_code": 16,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 96.49999237060547,
+            "bits_hex": "42c0ffff",
+            "hex": "0x1.81fffe0000000p+6",
+            "exact": {
+              "n": 12648447,
+              "d": 131072,
+              "decimal": 96.49999237060547
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 16,
+      "boundary": {
+        "n": 585919629,
+        "d": 67108864,
+        "decimal": 8.730882838368416
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 8.73088264465332,
+        "bits_hex": "410bb1b2",
+        "hex": "0x1.1763640000000p+3",
+        "exact": {
+          "n": 4577497,
+          "d": 524288,
+          "decimal": 8.73088264465332
+        }
+      },
+      "signed_distance_score": {
+        "n": -13,
+        "d": 67108864,
+        "decimal": -1.9371509552001953e-07
+      },
+      "side": "below",
+      "native_codes": [
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16,
+        16
+      ],
+      "native_DQ": [
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459,
+        8.68564510345459
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 292959808,
+            "d": 3035853,
+            "decimal": 96.49999785892136
+          },
+          "after_zero_exact": {
+            "n": 50091568,
+            "d": 3035853,
+            "decimal": 16.499997858921365
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -13,
+            "d": 6071706,
+            "decimal": -2.1410786358891553e-06
+          },
+          "threshold_lower_code": 16,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "after_zero_exact": {
+            "n": 33,
+            "d": 2,
+            "decimal": 16.5
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 16,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 96.5,
+            "bits_hex": "42c10000",
+            "hex": "0x1.8200000000000p+6",
+            "exact": {
+              "n": 193,
+              "d": 2,
+              "decimal": 96.5
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "after_zero_exact": {
+            "n": 33,
+            "d": 2,
+            "decimal": 16.5
+          },
+          "rounded_before_zero": 96,
+          "unclipped_after_zero": 16,
+          "code": 16,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 16,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 96.5,
+            "bits_hex": "42c10000",
+            "hex": "0x1.8200000000000p+6",
+            "exact": {
+              "n": 193,
+              "d": 2,
+              "decimal": 96.5
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 16,
+      "boundary": {
+        "n": 585919629,
+        "d": 67108864,
+        "decimal": 8.730882838368416
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 8.730883598327637,
+        "bits_hex": "410bb1b3",
+        "hex": "0x1.1763660000000p+3",
+        "exact": {
+          "n": 9154995,
+          "d": 1048576,
+          "decimal": 8.730883598327637
+        }
+      },
+      "signed_distance_score": {
+        "n": 51,
+        "d": 67108864,
+        "decimal": 7.599592208862305e-07
+      },
+      "side": "above",
+      "native_codes": [
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17
+      ],
+      "native_DQ": [
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 97653280,
+            "d": 1011951,
+            "decimal": 96.50000839961619
+          },
+          "after_zero_exact": {
+            "n": 16697200,
+            "d": 1011951,
+            "decimal": 16.50000839961619
+          },
+          "rounded_before_zero": 97,
+          "unclipped_after_zero": 17,
+          "code": 17,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 17,
+            "d": 2023902,
+            "decimal": 8.399616186949764e-06
+          },
+          "threshold_lower_code": 16,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": 12648449,
+            "d": 131072,
+            "decimal": 96.50000762939453
+          },
+          "after_zero_exact": {
+            "n": 2162689,
+            "d": 131072,
+            "decimal": 16.50000762939453
+          },
+          "rounded_before_zero": 97,
+          "unclipped_after_zero": 17,
+          "code": 17,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 131072,
+            "decimal": 7.62939453125e-06
+          },
+          "threshold_lower_code": 16,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false,
+          "division_float32": {
+            "value": 96.50000762939453,
+            "bits_hex": "42c10001",
+            "hex": "0x1.8200020000000p+6",
+            "exact": {
+              "n": 12648449,
+              "d": 131072,
+              "decimal": 96.50000762939453
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 6324225,
+            "d": 65536,
+            "decimal": 96.50001525878906
+          },
+          "after_zero_exact": {
+            "n": 1081345,
+            "d": 65536,
+            "decimal": 16.500015258789062
+          },
+          "rounded_before_zero": 97,
+          "unclipped_after_zero": 17,
+          "code": 17,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 193,
+            "d": 2,
+            "decimal": 96.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 65536,
+            "decimal": 1.52587890625e-05
+          },
+          "threshold_lower_code": 16,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 96.50001525878906,
+            "bits_hex": "42c10002",
+            "hex": "0x1.8200040000000p+6",
+            "exact": {
+              "n": 6324225,
+              "d": 65536,
+              "decimal": 96.50001525878906
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 17,
+      "boundary": {
+        "n": 591991335,
+        "d": 67108864,
+        "decimal": 8.821358308196068
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 8.821357727050781,
+        "bits_hex": "410d2448",
+        "hex": "0x1.1a48900000000p+3",
+        "exact": {
+          "n": 1156233,
+          "d": 131072,
+          "decimal": 8.821357727050781
+        }
+      },
+      "signed_distance_score": {
+        "n": -39,
+        "d": 67108864,
+        "decimal": -5.811452865600586e-07
+      },
+      "side": "below",
+      "native_codes": [
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17,
+        17
+      ],
+      "native_DQ": [
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205,
+        8.77612018585205
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 98665216,
+            "d": 1011951,
+            "decimal": 97.4999935767641
+          },
+          "after_zero_exact": {
+            "n": 17709136,
+            "d": 1011951,
+            "decimal": 17.49999357676409
+          },
+          "rounded_before_zero": 97,
+          "unclipped_after_zero": 17,
+          "code": 17,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -13,
+            "d": 2023902,
+            "decimal": -6.423235907667466e-06
+          },
+          "threshold_lower_code": 17,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": 12779519,
+            "d": 131072,
+            "decimal": 97.49999237060547
+          },
+          "after_zero_exact": {
+            "n": 2293759,
+            "d": 131072,
+            "decimal": 17.49999237060547
+          },
+          "rounded_before_zero": 97,
+          "unclipped_after_zero": 17,
+          "code": 17,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 131072,
+            "decimal": -7.62939453125e-06
+          },
+          "threshold_lower_code": 17,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false,
+          "division_float32": {
+            "value": 97.49999237060547,
+            "bits_hex": "42c2ffff",
+            "hex": "0x1.85fffe0000000p+6",
+            "exact": {
+              "n": 12779519,
+              "d": 131072,
+              "decimal": 97.49999237060547
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "after_zero_exact": {
+            "n": 35,
+            "d": 2,
+            "decimal": 17.5
+          },
+          "rounded_before_zero": 98,
+          "unclipped_after_zero": 18,
+          "code": 18,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 17,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 97.5,
+            "bits_hex": "42c30000",
+            "hex": "0x1.8600000000000p+6",
+            "exact": {
+              "n": 195,
+              "d": 2,
+              "decimal": 97.5
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 17,
+      "boundary": {
+        "n": 591991335,
+        "d": 67108864,
+        "decimal": 8.821358308196068
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 8.821358680725098,
+        "bits_hex": "410d2449",
+        "hex": "0x1.1a48920000000p+3",
+        "exact": {
+          "n": 9249865,
+          "d": 1048576,
+          "decimal": 8.821358680725098
+        }
+      },
+      "signed_distance_score": {
+        "n": 25,
+        "d": 67108864,
+        "decimal": 3.725290298461914e-07
+      },
+      "side": "above",
+      "native_codes": [
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18
+      ],
+      "native_DQ": [
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 295995680,
+            "d": 3035853,
+            "decimal": 97.50000411745891
+          },
+          "after_zero_exact": {
+            "n": 53127440,
+            "d": 3035853,
+            "decimal": 17.500004117458914
+          },
+          "rounded_before_zero": 98,
+          "unclipped_after_zero": 18,
+          "code": 18,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 25,
+            "d": 6071706,
+            "decimal": 4.117458915171452e-06
+          },
+          "threshold_lower_code": 17,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 12779521,
+            "d": 131072,
+            "decimal": 97.50000762939453
+          },
+          "after_zero_exact": {
+            "n": 2293761,
+            "d": 131072,
+            "decimal": 17.50000762939453
+          },
+          "rounded_before_zero": 98,
+          "unclipped_after_zero": 18,
+          "code": 18,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 131072,
+            "decimal": 7.62939453125e-06
+          },
+          "threshold_lower_code": 17,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 97.50000762939453,
+            "bits_hex": "42c30001",
+            "hex": "0x1.8600020000000p+6",
+            "exact": {
+              "n": 12779521,
+              "d": 131072,
+              "decimal": 97.50000762939453
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 12779521,
+            "d": 131072,
+            "decimal": 97.50000762939453
+          },
+          "after_zero_exact": {
+            "n": 2293761,
+            "d": 131072,
+            "decimal": 17.50000762939453
+          },
+          "rounded_before_zero": 98,
+          "unclipped_after_zero": 18,
+          "code": 18,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 131072,
+            "decimal": 7.62939453125e-06
+          },
+          "threshold_lower_code": 17,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 97.50000762939453,
+            "bits_hex": "42c30001",
+            "hex": "0x1.8600020000000p+6",
+            "exact": {
+              "n": 12779521,
+              "d": 131072,
+              "decimal": 97.50000762939453
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 17,
+      "boundary": {
+        "n": 591991335,
+        "d": 67108864,
+        "decimal": 8.821358308196068
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 8.821359634399414,
+        "bits_hex": "410d244a",
+        "hex": "0x1.1a48940000000p+3",
+        "exact": {
+          "n": 4624933,
+          "d": 524288,
+          "decimal": 8.821359634399414
+        }
+      },
+      "signed_distance_score": {
+        "n": 89,
+        "d": 67108864,
+        "decimal": 1.3262033462524414e-06
+      },
+      "side": "above",
+      "native_codes": [
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18,
+        18
+      ],
+      "native_DQ": [
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828,
+        8.866596221923828
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 295995712,
+            "d": 3035853,
+            "decimal": 97.50001465815375
+          },
+          "after_zero_exact": {
+            "n": 53127472,
+            "d": 3035853,
+            "decimal": 17.500014658153738
+          },
+          "rounded_before_zero": 98,
+          "unclipped_after_zero": 18,
+          "code": 18,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 89,
+            "d": 6071706,
+            "decimal": 1.4658153738010372e-05
+          },
+          "threshold_lower_code": 17,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 6389761,
+            "d": 65536,
+            "decimal": 97.50001525878906
+          },
+          "after_zero_exact": {
+            "n": 1146881,
+            "d": 65536,
+            "decimal": 17.500015258789062
+          },
+          "rounded_before_zero": 98,
+          "unclipped_after_zero": 18,
+          "code": 18,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 65536,
+            "decimal": 1.52587890625e-05
+          },
+          "threshold_lower_code": 17,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 97.50001525878906,
+            "bits_hex": "42c30002",
+            "hex": "0x1.8600040000000p+6",
+            "exact": {
+              "n": 6389761,
+              "d": 65536,
+              "decimal": 97.50001525878906
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 6389761,
+            "d": 65536,
+            "decimal": 97.50001525878906
+          },
+          "after_zero_exact": {
+            "n": 1146881,
+            "d": 65536,
+            "decimal": 17.500015258789062
+          },
+          "rounded_before_zero": 98,
+          "unclipped_after_zero": 18,
+          "code": 18,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 195,
+            "d": 2,
+            "decimal": 97.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 65536,
+            "decimal": 1.52587890625e-05
+          },
+          "threshold_lower_code": 17,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 97.50001525878906,
+            "bits_hex": "42c30002",
+            "hex": "0x1.8600040000000p+6",
+            "exact": {
+              "n": 6389761,
+              "d": 65536,
+              "decimal": 97.50001525878906
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 126,
+      "boundary": {
+        "n": 1253807289,
+        "d": 67108864,
+        "decimal": 18.683184519410133
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 18.683181762695312,
+        "bits_hex": "41957728",
+        "hex": "0x1.2aee500000000p+4",
+        "exact": {
+          "n": 1224421,
+          "d": 65536,
+          "decimal": 18.683181762695312
+        }
+      },
+      "signed_distance_score": {
+        "n": -185,
+        "d": 67108864,
+        "decimal": -2.7567148208618164e-06
+      },
+      "side": "below",
+      "native_codes": [
+        126,
+        126,
+        126,
+        126,
+        126,
+        126,
+        126,
+        126,
+        126,
+        126
+      ],
+      "native_DQ": [
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 626903552,
+            "d": 3035853,
+            "decimal": 206.49996953080404
+          },
+          "after_zero_exact": {
+            "n": 384035312,
+            "d": 3035853,
+            "decimal": 126.49996953080402
+          },
+          "rounded_before_zero": 206,
+          "unclipped_after_zero": 126,
+          "code": 126,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -185,
+            "d": 6071706,
+            "decimal": -3.046919597226875e-05
+          },
+          "threshold_lower_code": 126,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 6766591,
+            "d": 32768,
+            "decimal": 206.49996948242188
+          },
+          "after_zero_exact": {
+            "n": 4145151,
+            "d": 32768,
+            "decimal": 126.49996948242188
+          },
+          "rounded_before_zero": 206,
+          "unclipped_after_zero": 126,
+          "code": 126,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 32768,
+            "decimal": -3.0517578125e-05
+          },
+          "threshold_lower_code": 126,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 206.49996948242188,
+            "bits_hex": "434e7ffe",
+            "hex": "0x1.9cfffc0000000p+7",
+            "exact": {
+              "n": 6766591,
+              "d": 32768,
+              "decimal": 206.49996948242188
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 13533183,
+            "d": 65536,
+            "decimal": 206.49998474121094
+          },
+          "after_zero_exact": {
+            "n": 8290303,
+            "d": 65536,
+            "decimal": 126.49998474121094
+          },
+          "rounded_before_zero": 206,
+          "unclipped_after_zero": 126,
+          "code": 126,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 65536,
+            "decimal": -1.52587890625e-05
+          },
+          "threshold_lower_code": 126,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 206.49998474121094,
+            "bits_hex": "434e7fff",
+            "hex": "0x1.9cfffe0000000p+7",
+            "exact": {
+              "n": 13533183,
+              "d": 65536,
+              "decimal": 206.49998474121094
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 126,
+      "boundary": {
+        "n": 1253807289,
+        "d": 67108864,
+        "decimal": 18.683184519410133
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 18.683183670043945,
+        "bits_hex": "41957729",
+        "hex": "0x1.2aee520000000p+4",
+        "exact": {
+          "n": 9795369,
+          "d": 524288,
+          "decimal": 18.683183670043945
+        }
+      },
+      "signed_distance_score": {
+        "n": -57,
+        "d": 67108864,
+        "decimal": -8.493661880493164e-07
+      },
+      "side": "below",
+      "native_codes": [
+        126,
+        126,
+        126,
+        126,
+        126,
+        126,
+        126,
+        126,
+        126,
+        126
+      ],
+      "native_DQ": [
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953,
+        18.63794708251953
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 208967872,
+            "d": 1011951,
+            "decimal": 206.49999061219367
+          },
+          "after_zero_exact": {
+            "n": 128011792,
+            "d": 1011951,
+            "decimal": 126.49999061219367
+          },
+          "rounded_before_zero": 206,
+          "unclipped_after_zero": 126,
+          "code": 126,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -19,
+            "d": 2023902,
+            "decimal": -9.387806326590912e-06
+          },
+          "threshold_lower_code": 126,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true
+        },
+        "R1": {
+          "before_zero": {
+            "n": 13533183,
+            "d": 65536,
+            "decimal": 206.49998474121094
+          },
+          "after_zero_exact": {
+            "n": 8290303,
+            "d": 65536,
+            "decimal": 126.49998474121094
+          },
+          "rounded_before_zero": 206,
+          "unclipped_after_zero": 126,
+          "code": 126,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 65536,
+            "decimal": -1.52587890625e-05
+          },
+          "threshold_lower_code": 126,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "division_float32": {
+            "value": 206.49998474121094,
+            "bits_hex": "434e7fff",
+            "hex": "0x1.9cfffe0000000p+7",
+            "exact": {
+              "n": 13533183,
+              "d": 65536,
+              "decimal": 206.49998474121094
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "after_zero_exact": {
+            "n": 253,
+            "d": 2,
+            "decimal": 126.5
+          },
+          "rounded_before_zero": 206,
+          "unclipped_after_zero": 126,
+          "code": 126,
+          "saturated": false,
+          "endpoint_occupancy": false,
+          "nearest_threshold_before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 126,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": true,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 206.5,
+            "bits_hex": "434e8000",
+            "hex": "0x1.9d00000000000p+7",
+            "exact": {
+              "n": 413,
+              "d": 2,
+              "decimal": 206.5
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 126,
+      "boundary": {
+        "n": 1253807289,
+        "d": 67108864,
+        "decimal": 18.683184519410133
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 18.683185577392578,
+        "bits_hex": "4195772a",
+        "hex": "0x1.2aee540000000p+4",
+        "exact": {
+          "n": 4897685,
+          "d": 262144,
+          "decimal": 18.683185577392578
+        }
+      },
+      "signed_distance_score": {
+        "n": 71,
+        "d": 67108864,
+        "decimal": 1.0579824447631836e-06
+      },
+      "side": "above",
+      "native_codes": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ],
+      "native_DQ": [
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 626903680,
+            "d": 3035853,
+            "decimal": 206.50001169358333
+          },
+          "after_zero_exact": {
+            "n": 384035440,
+            "d": 3035853,
+            "decimal": 126.50001169358332
+          },
+          "rounded_before_zero": 207,
+          "unclipped_after_zero": 127,
+          "code": 127,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 71,
+            "d": 6071706,
+            "decimal": 1.1693583319086926e-05
+          },
+          "threshold_lower_code": 126,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": 13533185,
+            "d": 65536,
+            "decimal": 206.50001525878906
+          },
+          "after_zero_exact": {
+            "n": 8290305,
+            "d": 65536,
+            "decimal": 126.50001525878906
+          },
+          "rounded_before_zero": 207,
+          "unclipped_after_zero": 127,
+          "code": 127,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 65536,
+            "decimal": 1.52587890625e-05
+          },
+          "threshold_lower_code": 126,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false,
+          "division_float32": {
+            "value": 206.50001525878906,
+            "bits_hex": "434e8001",
+            "hex": "0x1.9d00020000000p+7",
+            "exact": {
+              "n": 13533185,
+              "d": 65536,
+              "decimal": 206.50001525878906
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 13533185,
+            "d": 65536,
+            "decimal": 206.50001525878906
+          },
+          "after_zero_exact": {
+            "n": 8290305,
+            "d": 65536,
+            "decimal": 126.50001525878906
+          },
+          "rounded_before_zero": 207,
+          "unclipped_after_zero": 127,
+          "code": 127,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 413,
+            "d": 2,
+            "decimal": 206.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 65536,
+            "decimal": 1.52587890625e-05
+          },
+          "threshold_lower_code": 126,
+          "threshold_belongs_to_lower": true,
+          "finite_cell_edges_included": false,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 206.50001525878906,
+            "bits_hex": "434e8001",
+            "hex": "0x1.9d00020000000p+7",
+            "exact": {
+              "n": 13533185,
+              "d": 65536,
+              "decimal": 206.50001525878906
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 127,
+      "boundary": {
+        "n": 1259878995,
+        "d": 67108864,
+        "decimal": 18.773659989237785
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 18.773658752441406,
+        "bits_hex": "41963074",
+        "hex": "0x1.2c60e80000000p+4",
+        "exact": {
+          "n": 2460701,
+          "d": 131072,
+          "decimal": 18.773658752441406
+        }
+      },
+      "signed_distance_score": {
+        "n": -83,
+        "d": 67108864,
+        "decimal": -1.2367963790893555e-06
+      },
+      "side": "below",
+      "native_codes": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ],
+      "native_DQ": [
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 629939456,
+            "d": 3035853,
+            "decimal": 207.4999863300364
+          },
+          "after_zero_exact": {
+            "n": 387071216,
+            "d": 3035853,
+            "decimal": 127.4999863300364
+          },
+          "rounded_before_zero": 207,
+          "unclipped_after_zero": 127,
+          "code": 127,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -83,
+            "d": 6071706,
+            "decimal": -1.3669963598369222e-05
+          },
+          "threshold_lower_code": 127,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": 13598719,
+            "d": 65536,
+            "decimal": 207.49998474121094
+          },
+          "after_zero_exact": {
+            "n": 8355839,
+            "d": 65536,
+            "decimal": 127.49998474121094
+          },
+          "rounded_before_zero": 207,
+          "unclipped_after_zero": 127,
+          "code": 127,
+          "saturated": false,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": -1,
+            "d": 65536,
+            "decimal": -1.52587890625e-05
+          },
+          "threshold_lower_code": 127,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false,
+          "division_float32": {
+            "value": 207.49998474121094,
+            "bits_hex": "434f7fff",
+            "hex": "0x1.9efffe0000000p+7",
+            "exact": {
+              "n": 13598719,
+              "d": 65536,
+              "decimal": 207.49998474121094
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "after_zero_exact": {
+            "n": 255,
+            "d": 2,
+            "decimal": 127.5
+          },
+          "rounded_before_zero": 208,
+          "unclipped_after_zero": 128,
+          "code": 127,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 127,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 207.5,
+            "bits_hex": "434f8000",
+            "hex": "0x1.9f00000000000p+7",
+            "exact": {
+              "n": 415,
+              "d": 2,
+              "decimal": 207.5
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 127,
+      "boundary": {
+        "n": 1259878995,
+        "d": 67108864,
+        "decimal": 18.773659989237785
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 18.77366065979004,
+        "bits_hex": "41963075",
+        "hex": "0x1.2c60ea0000000p+4",
+        "exact": {
+          "n": 9842805,
+          "d": 524288,
+          "decimal": 18.77366065979004
+        }
+      },
+      "signed_distance_score": {
+        "n": 45,
+        "d": 67108864,
+        "decimal": 6.705522537231445e-07
+      },
+      "side": "above",
+      "native_codes": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ],
+      "native_DQ": [
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 69993280,
+            "d": 337317,
+            "decimal": 207.50000741142605
+          },
+          "after_zero_exact": {
+            "n": 43007920,
+            "d": 337317,
+            "decimal": 127.50000741142605
+          },
+          "rounded_before_zero": 208,
+          "unclipped_after_zero": 128,
+          "code": 127,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 5,
+            "d": 674634,
+            "decimal": 7.411426047308615e-06
+          },
+          "threshold_lower_code": 127,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "after_zero_exact": {
+            "n": 255,
+            "d": 2,
+            "decimal": 127.5
+          },
+          "rounded_before_zero": 208,
+          "unclipped_after_zero": 128,
+          "code": 127,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 0,
+            "d": 1,
+            "decimal": 0.0
+          },
+          "threshold_lower_code": 127,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false,
+          "division_float32": {
+            "value": 207.5,
+            "bits_hex": "434f8000",
+            "hex": "0x1.9f00000000000p+7",
+            "exact": {
+              "n": 415,
+              "d": 2,
+              "decimal": 207.5
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 13598721,
+            "d": 65536,
+            "decimal": 207.50001525878906
+          },
+          "after_zero_exact": {
+            "n": 8355841,
+            "d": 65536,
+            "decimal": 127.50001525878906
+          },
+          "rounded_before_zero": 208,
+          "unclipped_after_zero": 128,
+          "code": 127,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 65536,
+            "decimal": 1.52587890625e-05
+          },
+          "threshold_lower_code": 127,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 207.50001525878906,
+            "bits_hex": "434f8001",
+            "hex": "0x1.9f00020000000p+7",
+            "exact": {
+              "n": 13598721,
+              "d": 65536,
+              "decimal": 207.50001525878906
+            }
+          }
+        }
+      }
+    },
+    {
+      "lower_code": 127,
+      "boundary": {
+        "n": 1259878995,
+        "d": 67108864,
+        "decimal": 18.773659989237785
+      },
+      "boundary_representable": false,
+      "input": {
+        "value": 18.773662567138672,
+        "bits_hex": "41963076",
+        "hex": "0x1.2c60ec0000000p+4",
+        "exact": {
+          "n": 4921403,
+          "d": 262144,
+          "decimal": 18.773662567138672
+        }
+      },
+      "signed_distance_score": {
+        "n": 173,
+        "d": 67108864,
+        "decimal": 2.5779008865356445e-06
+      },
+      "side": "above",
+      "native_codes": [
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127,
+        127
+      ],
+      "native_DQ": [
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992,
+        18.728422164916992
+      ],
+      "reference_maps": {
+        "exact": {
+          "before_zero": {
+            "n": 629939584,
+            "d": 3035853,
+            "decimal": 207.5000284928157
+          },
+          "after_zero_exact": {
+            "n": 387071344,
+            "d": 3035853,
+            "decimal": 127.50002849281569
+          },
+          "rounded_before_zero": 208,
+          "unclipped_after_zero": 128,
+          "code": 127,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 173,
+            "d": 6071706,
+            "decimal": 2.8492815692986454e-05
+          },
+          "threshold_lower_code": 127,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false
+        },
+        "R1": {
+          "before_zero": {
+            "n": 6799361,
+            "d": 32768,
+            "decimal": 207.50003051757812
+          },
+          "after_zero_exact": {
+            "n": 4177921,
+            "d": 32768,
+            "decimal": 127.50003051757812
+          },
+          "rounded_before_zero": 208,
+          "unclipped_after_zero": 128,
+          "code": 127,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 32768,
+            "decimal": 3.0517578125e-05
+          },
+          "threshold_lower_code": 127,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false,
+          "division_float32": {
+            "value": 207.50003051757812,
+            "bits_hex": "434f8002",
+            "hex": "0x1.9f00040000000p+7",
+            "exact": {
+              "n": 6799361,
+              "d": 32768,
+              "decimal": 207.50003051757812
+            }
+          }
+        },
+        "R2": {
+          "before_zero": {
+            "n": 6799361,
+            "d": 32768,
+            "decimal": 207.50003051757812
+          },
+          "after_zero_exact": {
+            "n": 4177921,
+            "d": 32768,
+            "decimal": 127.50003051757812
+          },
+          "rounded_before_zero": 208,
+          "unclipped_after_zero": 128,
+          "code": 127,
+          "saturated": true,
+          "endpoint_occupancy": true,
+          "nearest_threshold_before_zero": {
+            "n": 415,
+            "d": 2,
+            "decimal": 207.5
+          },
+          "signed_threshold_distance_code_units": {
+            "n": 1,
+            "d": 32768,
+            "decimal": 3.0517578125e-05
+          },
+          "threshold_lower_code": 127,
+          "threshold_belongs_to_lower": false,
+          "finite_cell_edges_included": false,
+          "reciprocal_float32": {
+            "value": 11.052720069885254,
+            "bits_hex": "4130d7f1",
+            "hex": "0x1.61afe20000000p+3",
+            "exact": {
+              "n": 11589617,
+              "d": 1048576,
+              "decimal": 11.052720069885254
+            }
+          },
+          "product_float32": {
+            "value": 207.50003051757812,
+            "bits_hex": "434f8002",
+            "hex": "0x1.9f00040000000p+7",
+            "exact": {
+              "n": 6799361,
+              "d": 32768,
+              "decimal": 207.50003051757812
+            }
+          }
+        }
+      }
+    }
+  ]
+}
